@@ -88,3 +88,15 @@ point `ref` at the new release. Read Keycloak's
 [upgrading guide](https://www.keycloak.org/docs/latest/upgrading/) and back the
 database up first: Keycloak migrates its schema on start, and there is no going
 back.
+
+---
+
+<!-- cubeship-crosslink -->
+
+## About Cubeship
+
+This is a template for [**Cubeship**](https://github.com/cubeshipd/cubeship) —
+a PaaS you run on your own server: `docker push`, and it is live, with HTTPS,
+a database beside it, and a second machine when one stops being enough.
+
+Browse every template at [cubeship.dev/templates](https://cubeship.dev/templates).
